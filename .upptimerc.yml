@@ -30,3 +30,4 @@ status-website:
       href: https://deadlio.com/contact/
   i18n:
     footer: "© 2026 [Deadlio.com](https://deadlio.com). All rights reserved."
+  customHeadHtml: "<style>footer p{font-size:0}footer p a{display:none}footer p::after{content:'© 2026 Deadlio.com. All rights reserved.';font-size:14px}</style>"
