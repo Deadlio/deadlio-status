@@ -28,3 +28,5 @@ status-website:
       href: https://deadlio.com
     - title: Contact
       href: https://deadlio.com/contact/
+  i18n:
+    footer: "© 2026 [Deadlio.com](https://deadlio.com). All rights reserved."
