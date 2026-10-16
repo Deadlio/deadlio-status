@@ -1,6 +1,6 @@
 # Upptime settings for the Deadlio status page
 
-owner: Terrance23a
+owner: Deadlio
 repo: deadlio-status
 
 sites:
@@ -10,9 +10,6 @@ sites:
       - 200
   - name: Deadlio website
     url: https://deadlio.com
-
-assignees:
-  - Terrance23a
 
 status-website:
   cname: status.deadlio.com
