@@ -4,17 +4,17 @@
     "url": "https://app.deadlio.com/?dla_health=public",
     "icon": "https://icons.duckduckgo.com/ip3/app.deadlio.com.ico",
     "slug": "deadlio-app",
-    "status": "down",
-    "uptime": "98.42%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "98.42%",
-    "time": 1219,
-    "timeDay": 1516,
-    "timeWeek": 1333,
-    "timeMonth": 1402,
-    "timeYear": 1219,
+    "status": "up",
+    "uptime": "97.89%",
+    "uptimeDay": "78.67%",
+    "uptimeWeek": "96.95%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "97.89%",
+    "time": 1223,
+    "timeDay": 1480,
+    "timeWeek": 1346,
+    "timeMonth": 1403,
+    "timeYear": 1223,
     "dailyMinutesDown": {
       "2026-10-15": 132,
       "2026-10-17": 18,
@@ -22,7 +22,7 @@
       "2026-10-18": 138,
       "2026-10-29": 359,
       "2026-11-15": 115,
-      "2026-11-22": 5
+      "2026-11-22": 307
     }
   },
   {
@@ -30,16 +30,16 @@
     "url": "https://deadlio.com",
     "icon": "https://icons.duckduckgo.com/ip3/deadlio.com.ico",
     "slug": "deadlio-website",
-    "status": "down",
-    "uptime": "98.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "98.45%",
+    "status": "up",
+    "uptime": "97.92%",
+    "uptimeDay": "79.01%",
+    "uptimeWeek": "97.00%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "97.92%",
     "time": 445,
-    "timeDay": 566,
-    "timeWeek": 452,
-    "timeMonth": 470,
+    "timeDay": 503,
+    "timeWeek": 451,
+    "timeMonth": 469,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2026-10-15": 127,
@@ -48,7 +48,7 @@
       "2026-10-18": 138,
       "2026-10-29": 354,
       "2026-11-15": 110,
-      "2026-11-22": 0
+      "2026-11-22": 302
     }
   }
 ]
