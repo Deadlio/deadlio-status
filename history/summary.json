@@ -4,12 +4,12 @@
     "url": "https://app.deadlio.com/?dla_health=public",
     "icon": "https://icons.duckduckgo.com/ip3/app.deadlio.com.ico",
     "slug": "deadlio-app",
-    "status": "up",
-    "uptime": "98.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "98.40%",
+    "status": "down",
+    "uptime": "98.42%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.42%",
     "time": 1219,
     "timeDay": 1516,
     "timeWeek": 1333,
@@ -21,7 +21,8 @@
       "2026-10-16": 120,
       "2026-10-18": 138,
       "2026-10-29": 359,
-      "2026-11-15": 115
+      "2026-11-15": 115,
+      "2026-11-22": 5
     }
   },
   {
@@ -29,12 +30,12 @@
     "url": "https://deadlio.com",
     "icon": "https://icons.duckduckgo.com/ip3/deadlio.com.ico",
     "slug": "deadlio-website",
-    "status": "up",
-    "uptime": "98.43%",
+    "status": "down",
+    "uptime": "98.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.94%",
-    "uptimeYear": "98.43%",
+    "uptimeYear": "98.45%",
     "time": 445,
     "timeDay": 566,
     "timeWeek": 452,
@@ -46,7 +47,8 @@
       "2026-10-16": 119,
       "2026-10-18": 138,
       "2026-10-29": 354,
-      "2026-11-15": 110
+      "2026-11-15": 110,
+      "2026-11-22": 0
     }
   }
 ]
